@@ -1,4 +1,4 @@
-nyani?
+nyani? /ᐠ｡ꞈ｡ᐟ\
 
 - currently a cs student in feutech
 - formerly employed as web dev and data manager
