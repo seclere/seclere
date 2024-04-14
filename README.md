@@ -1,8 +1,9 @@
 ${\textsf{\color{lightgreen}nyani? ┬┴┬┴┤•ᴥ•ʔ├┬┴┬┴}}$
 
-- currently a cs student in feutech
-- formerly employed as web dev and data manager
+- a cs student in feutech
 - currently self-employed as an "AI Coding Specialist"
+- formerly employed as web dev and data manager
+
   
 <!---
 seclere/seclere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
